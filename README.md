@@ -1,9 +1,2 @@
 # LAMMPS
-Simulações 
-
-teste maneiro 332
-AAAAAAA
-teste do commit again
-
-
-mais um teste
+## Neste repositorio estaram os codigos utilizados para simulações do LAMMPS
